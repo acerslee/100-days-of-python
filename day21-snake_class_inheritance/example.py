@@ -29,3 +29,4 @@ print(piano_keys[2:]) # returns everything from the 2nd index in an array
 print(piano_keys[:5]) # returns everything before the 5th index in an array
 print(piano_keys[2:6]) #returns everything from the 2nd index, to right before the 6th index
 print(piano_keys[2:6:2]) #returns the values from above, except it increments after every other item
+print(piano_keys[::2]) #returns the entire list, but it increments after every other item
