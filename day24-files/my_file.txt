@@ -1,3 +1,2 @@
-This is a new textThis is a new text
-This is a new text
-This is a new text
+
+I also know Javascript
